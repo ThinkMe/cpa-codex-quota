@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Codex 余量</string>
+    <string name="widget_description">默认账号的 5 小时与每周剩余额度</string>
+    <string name="widget_five_hours">5H限额</string>
+    <string name="widget_week">周限额</string>
+    <string name="widget_unknown">—</string>
+    <string name="widget_refresh">刷新数据</string>
+</resources>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 宿主播放 1.4 秒呼吸循环，形状圆角不随额度宽度缩放。 -->
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#FF10B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#FC10B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#F210B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#E210B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#CF10B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#B910B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#A310B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#9010B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#8010B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#7610B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#7310B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#7610B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#8010B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#9010B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#A310B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#B910B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#CF10B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#E210B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#F210B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item android:duration="70">
+        <shape android:shape="rectangle">
+            <solid android:color="#FC10B981" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+</animation-list>

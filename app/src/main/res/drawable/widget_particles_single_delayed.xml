@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:oneshot="false">
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="3.231%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="6.769%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="10.308%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="13.846%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="17.385%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="20.923%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="24.462%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="28.000%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="31.538%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="35.077%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="38.615%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="42.154%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="45.692%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="49.231%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="52.769%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="56.308%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="59.846%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+</animation-list>

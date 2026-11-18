@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:oneshot="false">
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item><color android:color="#00000000" /></item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="3.231%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="0.269%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="6.769%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="3.808%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="10.308%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="0.846%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="7.346%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="13.846%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="4.385%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="10.885%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="17.385%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="1.423%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="7.923%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="14.423%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="20.923%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="4.962%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="11.462%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="17.962%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="24.462%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="8.500%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="15.000%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="21.500%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="28.000%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="12.038%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="18.538%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="25.038%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="31.538%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="15.577%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="22.077%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="28.577%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="35.077%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="19.115%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="25.615%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="32.115%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="38.615%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="22.654%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="29.154%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="35.654%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="42.154%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="26.192%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="32.692%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="39.192%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="45.692%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="29.731%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="36.231%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="42.731%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="49.231%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="33.269%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="39.769%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="46.269%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="52.769%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="36.808%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="43.308%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="49.808%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="56.308%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="40.346%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="46.846%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="53.346%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="59.846%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="43.885%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="50.385%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="56.885%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="63.385%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="47.423%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="53.923%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="60.423%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="66.923%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="50.962%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="57.462%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="63.962%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="70.462%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="54.500%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="61.000%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="67.500%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="74.000%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="58.038%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="64.538%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="71.038%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="77.538%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="61.577%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="68.077%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="74.577%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="81.077%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="65.115%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="71.615%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="78.115%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="84.615%">
+                    <layer-list>
+                        <item android:width="4dp" android:height="4dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#FFFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="68.654%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="75.154%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="81.654%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="72.192%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="78.692%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="85.192%">
+                    <layer-list>
+                        <item android:width="3dp" android:height="3dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#AAFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="75.731%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="82.231%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="79.269%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetLeft="85.769%">
+                    <layer-list>
+                        <item android:width="2.5dp" android:height="2.5dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#5FFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="82.808%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="40">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="86.346%">
+                    <layer-list>
+                        <item android:width="2dp" android:height="2dp" android:gravity="left|center_vertical">
+                            <shape android:shape="oval"><solid android:color="#2DFFFFFF" /></shape>
+                        </item>
+                    </layer-list>
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+</animation-list>
